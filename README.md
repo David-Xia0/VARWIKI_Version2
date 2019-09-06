@@ -2,6 +2,8 @@
 
 This project application is designed to ask the user for a key word/term to search. Then a video is returned. The video contains text to speech of the wikipedia page associated with the key word. Currently the video aspect only display the term witha  blue back ground, but, I plan on changing the video aspect to include a slide show of images taken off google.
 
+The project uses javafx to create an interactive GUI
+
 ## Linux required to run project
 
 The project uses bash commands for video creation and file manipulation.
